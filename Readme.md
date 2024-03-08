@@ -51,4 +51,4 @@ With the factory function set up, your team requests that you create 30 instance
 Create a .complementStrand() method to the factory function’s object that returns the complementary DNA strand. The rules are that 'A's match with 'T's and vice versa. Also, 'C's match with 'G's and vice versa.
 
 ## Credits
-This was a CodeCademy project. I used the terminal and console.log() statements to check the functions. CodeCademy provided the `returnRandBase()` and `mockUpStrand()` functions, the other were written by me according to the instructions.
+This was a CodeCademy project. CodeCademy provided the `returnRandBase()` and `mockUpStrand()` functions, the other were written by me according to the instructions.
